@@ -1,38 +1,43 @@
-# DATE
+# DATE : 21/07/2026
 # EXPT. NO. 1 SIMULATION OF STAR TOPOLOGY NETWORK
 
-# AIM 
+## AIM 
  To simulate a network with Topology, using Cisco Packet Tracer and to verify the connectivity between computer using ICMP.
-# EQUIPMENTS REQUIRED
+## EQUIPMENTS REQUIRED
+<img width="411" height="121" alt="image" src="https://github.com/user-attachments/assets/07fb1467-9f64-426c-ae56-fbfcfb638eba" />
 
-Desktop computer
-Cisco Packet Tracer 5.0 Software.
+## PROCEDURE:
 
+**STEP 1:** Open a Packet Tracer Software.
 
-# PROCEDURE
-STEP 1: Open a Packet Tracer Software.
-STEP 2: Drag a 2950 Switch from tool bar and drop it in work area. STEP 3: Drag a PC Terminal from tool bar and drop it in work area. STEP 4: Repeat the Step:3 for four terminals.
-STEP 5: Select Copper straight-through cable from tool bar and connect each PC Terminal with 2950 switch in different ports.
-STEP 6: Click on the PC Terminal, Select the fast Ethernet Interface from configuration table and set IP address and Subnet mask.
-STEP 7: Repeat the Step:6 for all the PC Terminals.
-STEP 8: click on the PC Terminal and Select Terminal from the Desktop tab to verify the connectivity between the PC Terminals using Ping Command.
-STEP 9: Select “add simple PDU” from tool bar and place it in source and destination PC Terminals to verify the connectivity
+**STEP 2:** Drag a 2950 Switch from tool bar and drop it in work area.
 
+**STEP 3:** Drag a PC Terminal from tool bar and drop it in work area.
 
+**STEP 4:** Repeat the Step:3 for four terminals.
 
-# IP CONNECTIVITY TABLE
+**STEP 5:** Select Copper straight-through cable from tool bar and connect each PC Terminal with 2950 switch in different ports.
 
+**STEP 6:** Click on the PC Terminal, Select the fast Ethernet Interface from configuration table and set IP address and Subnet mask.
 
+**STEP 7:** Repeat the Step:6 for all the PC Terminals.
 
-# NETWORK DIAGRAM
+**STEP 8:** click on the PC Terminal and Select Terminal from the Desktop tab to verify the connectivity between the PC Terminals using Ping Command.
 
-
+**STEP 9:** Select “add simple PDU” from tool bar and place it in source and destination PC Terminals to verify the connectivity.
 
 
-# OUTPUT
+## IP CONNECTIVITY TABLE
+<img width="1188" height="301" alt="image" src="https://github.com/user-attachments/assets/7fe7a8dd-09c1-4f15-97ce-1ba26a3a11d0" />
 
+## NETWORK DIAGRAM
+<img width="1917" height="957" alt="Screenshot 2026-08-03 094320" src="https://github.com/user-attachments/assets/26d676f5-4d02-467a-aa52-fcbf031c20c7" />
+<img width="1280" height="811" alt="image" src="https://github.com/user-attachments/assets/1a6889f6-e8fc-40ce-a421-f79ed520e1e9" />
 
-# RESULT
+## OUTPUT
+<img width="1280" height="738" alt="image" src="https://github.com/user-attachments/assets/668a0880-431f-4cfe-920e-a80229fe5cc4" />
+
+## RESULT
 
 Thus the computers in same network are able to communicate with each other and the communication between them were verified.
 
