@@ -32,10 +32,13 @@
 
 ## NETWORK DIAGRAM
 <img width="1917" height="957" alt="Screenshot 2026-08-03 094320" src="https://github.com/user-attachments/assets/26d676f5-4d02-467a-aa52-fcbf031c20c7" />
-<img width="1280" height="811" alt="image" src="https://github.com/user-attachments/assets/1a6889f6-e8fc-40ce-a421-f79ed520e1e9" />
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/66e60410-7f3b-4424-b939-4b37fe9f9e2c" />
+
 
 ## OUTPUT
-<img width="1280" height="738" alt="image" src="https://github.com/user-attachments/assets/668a0880-431f-4cfe-920e-a80229fe5cc4" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/85b12e00-6787-43da-a719-8729ff666aed" />
+
 
 ## RESULT
 
